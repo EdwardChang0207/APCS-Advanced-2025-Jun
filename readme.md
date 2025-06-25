@@ -49,7 +49,7 @@
 3. **Google Meet 教室**：加入上課連結：[點我加入](https://meet.google.com/nri-homu-psz)  
 4. **ZeroJudge 解題平台**：  
    - 註冊並登入 [ZeroJudge](https://zerojudge.tw)  
-   - 點選右上使用者 → 加入課程，輸入課程代碼：`NRs9Jv`  
+   - 點選右上使用者 → 加入課程，輸入課程代碼：`sbXrbm`  
    - [觀看使用教學影片](https://youtu.be/ID5brYr5fvQ)  
 5. **作業繳交方式**：  
    - **繳交期限**：隔週週五 00:00 前  
